@@ -1,4 +1,4 @@
-# go-test-task
+# go-rest-api
 
 ## Description
 - Implemented create/read/read all/update/delete endpoints for Task object, used [Echo](https://github.com/labstack/echo) as a web framework.
